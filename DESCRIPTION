@@ -1,0 +1,11 @@
+Common-Sense-AI Description:
+
+"This repository contains the prototype for a Neuro-Symbolic Reasoning Engine. Unlike standard LLMs that rely on statistical guessing, the Special Sense framework utilizes a three-tier logic gate:
+
+Manas Layer: Multi-modal perception (DICOM/Image/Text).
+
+Buddhi-Gate: A symbolic discernment layer that applies causal logic to prevent hallucinations.
+
+Chitta-Store: A recursive knowledge base of real-world scenarios and safety protocols.
+
+Designed for integration into Google Health and DeepMind-scale foundation models to ensure 100% diagnostic and operational safety."
