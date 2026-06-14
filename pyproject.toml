@@ -41,6 +41,4 @@ Homepage = "https://github.com/Roshan8005/Common-Sense-AI"
 Repository = "https://github.com/Roshan8005/Common-Sense-AI"
 Issues = "https://github.com/Roshan8005/Common-Sense-AI/issues"
 
-[tool.setuptools]
-package-dir = {"" = "src"}
-packages = {find = {where = ["src"]}}
+
