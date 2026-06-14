@@ -1,19 +1,71 @@
-# Common Sense AI (Special Sense)
-**Developed by Roshan Kumar Sah**
+# Common-Sense-AI
 
-## 🧠 The Vision
-"True intelligence begins with understanding, not computation." 
+[![CI Status](https://github.com/Roshan8005/Common-Sense-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/Roshan8005/Common-Sense-AI/actions)
+[![Security Scan](https://github.com/Roshan8005/Common-Sense-AI/actions/workflows/security.yml/badge.svg)](https://github.com/Roshan8005/Common-Sense-AI/actions)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Common Sense AI is a breakthrough architecture that moves beyond standard probabilistic pattern matching. Inspired by the Vedic **Antahkarana** model, this system introduces a **Buddhi-Gate**—a logical discernment layer designed to solve the "Common Sense Gap" in modern AI.
+## 📖 Overview
 
-## 🛠️ Technical Framework
-This project utilizes a multi-layered comprehension engine:
-1. **Manas (Perception):** Processing raw clinical/visual input.
-2. **Buddhi (Intellect):** A Causal Logic Gate that filters for safety and logic.
-3. **Chitta (Memory):** A recursive database of real-world "Samskaras" (scenarios).
+[Add 2-3 sentences describing the project]
 
-## 🏥 Medical Application
-As a BMIT student at RGUHS, I am specifically applying this logic to:
-- Reducing false positives in **MRI/CT interpretation**.
-- Ensuring AI safety in diagnostic radiology.
-- Predictive safety for pediatric and elderly care.
+## ✨ Features
+
+- Feature 1
+- Feature 2
+- Feature 3
+
+## 🚀 Quick Start
+
+### Installation
+
+`ash
+# Python
+pip install -r requirements.txt
+
+# TypeScript
+npm install
+`
+
+### Basic Usage
+
+`python
+# Python example
+import Common-Sense-AI
+# Add usage example
+`
+
+`	ypescript
+// TypeScript example
+import { Common-Sense-AI } from 'Common-Sense-AI';
+// Add usage example
+`
+
+## 📚 Documentation
+
+Full documentation: https://roshan8005.github.io/Common-Sense-AI
+
+## 🧪 Testing
+
+`ash
+# Python
+pytest --cov=.
+
+# TypeScript
+npm test
+`
+
+## 🤝 Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## 📄 License
+
+MIT © 2026 Roshan Kumar Sah
+
+## 🔒 Security
+
+For security issues, see [SECURITY.md](SECURITY.md)
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Roshan8005/Common-Sense-AI&type=Date)](https://star-history.com/#Roshan8005/Common-Sense-AI&Date)
